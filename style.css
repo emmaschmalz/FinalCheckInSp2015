@@ -1,0 +1,35 @@
+body{
+  background-color:
+}
+
+nav{
+  margin: 0 auto;
+  width:1000px;
+  padding: 5px 0;
+  text-align:center;
+  border-top: 1.5px solid black;
+  font-family:
+  font-size: 20px
+}
+
+header h1{
+  text-align:center;
+  margin:0;
+  padding-top:.25em;
+  font-size: 80px;
+}
+
+#menu{
+  text-align: center;
+  font-family:
+  font-size: 20px;
+}
+
+#maincolumn img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-family:
+}
