@@ -1,5 +1,6 @@
 body{
-  background-color:
+  background-color:#CC99FF;
+  color: white;
 }
 
 nav{
@@ -8,7 +9,7 @@ nav{
   padding: 5px 0;
   text-align:center;
   border-top: 1.5px solid black;
-  font-family:
+  font-family:'Indie Flower', cursive;
   font-size: 20px
 }
 
@@ -19,6 +20,10 @@ header h1{
   font-size: 80px;
 }
 
+header h2{
+  font-family: 'Raleway', sans-serif;
+  
+}
 #menu{
   text-align: center;
   font-family:
@@ -31,5 +36,5 @@ header h1{
   margin-right: auto;
 }
 h1{
-  font-family:
+  font-family:'Indie Flower', cursive;
 }
